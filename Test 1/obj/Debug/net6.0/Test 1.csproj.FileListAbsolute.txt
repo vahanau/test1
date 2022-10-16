@@ -1,0 +1,15 @@
+D:\Обучение Pyhton\Домашка\Test 1. First quoter\Test 1\bin\Debug\net6.0\Test 1.exe
+D:\Обучение Pyhton\Домашка\Test 1. First quoter\Test 1\bin\Debug\net6.0\Test 1.deps.json
+D:\Обучение Pyhton\Домашка\Test 1. First quoter\Test 1\bin\Debug\net6.0\Test 1.runtimeconfig.json
+D:\Обучение Pyhton\Домашка\Test 1. First quoter\Test 1\bin\Debug\net6.0\Test 1.dll
+D:\Обучение Pyhton\Домашка\Test 1. First quoter\Test 1\bin\Debug\net6.0\Test 1.pdb
+D:\Обучение Pyhton\Домашка\Test 1. First quoter\Test 1\obj\Debug\net6.0\Test 1.csproj.AssemblyReference.cache
+D:\Обучение Pyhton\Домашка\Test 1. First quoter\Test 1\obj\Debug\net6.0\Test 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение Pyhton\Домашка\Test 1. First quoter\Test 1\obj\Debug\net6.0\Test 1.AssemblyInfoInputs.cache
+D:\Обучение Pyhton\Домашка\Test 1. First quoter\Test 1\obj\Debug\net6.0\Test 1.AssemblyInfo.cs
+D:\Обучение Pyhton\Домашка\Test 1. First quoter\Test 1\obj\Debug\net6.0\Test 1.csproj.CoreCompileInputs.cache
+D:\Обучение Pyhton\Домашка\Test 1. First quoter\Test 1\obj\Debug\net6.0\Test 1.dll
+D:\Обучение Pyhton\Домашка\Test 1. First quoter\Test 1\obj\Debug\net6.0\refint\Test 1.dll
+D:\Обучение Pyhton\Домашка\Test 1. First quoter\Test 1\obj\Debug\net6.0\Test 1.pdb
+D:\Обучение Pyhton\Домашка\Test 1. First quoter\Test 1\obj\Debug\net6.0\Test 1.genruntimeconfig.cache
+D:\Обучение Pyhton\Домашка\Test 1. First quoter\Test 1\obj\Debug\net6.0\ref\Test 1.dll
